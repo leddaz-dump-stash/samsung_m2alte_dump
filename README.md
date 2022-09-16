@@ -1,0 +1,14 @@
+# m2altexx-user 4.4.2 KOT49H C115XXU1BNF1 release-keys
+- manufacturer: samsung
+- platform: exynos5
+- codename: m2alte
+- flavor: user
+- release: 4.4.2
+- id: KOT49H
+- incremental: C115XXU1BNF1
+- tags: release-keys
+- fingerprint: samsung/m2altexx/m2alte:4.4.2/KOT49H/C115XXU1BNF1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: m2altexx-user-4.4.2-KOT49H-C115XXU1BNF1-release-keys
+- repo: samsung_m2alte_dump
